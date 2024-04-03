@@ -1,0 +1,5 @@
+# pixel3d
+
+The 3D Pixel Art app is a pixel drawing board tool filled with boundless imagination, which has won the love of numerous users with its unique functions and outstanding performance. This app not only possesses the basic features of traditional pixel drawing boards but also incorporates innovative 3D modeling technology, transforming pixel art from flat to three-dimensional, providing users with a more diverse and colorful creative experience.
+
+Within the 3D Pixel Art app, users can easily create pixel artworks of various styles through simple operations. Whether it's the classic pixel style or the modern minimalist style, they can all be perfectly presented in this app. Moreover, users can freely adjust the size and color of pixels according to their preferences, creating unique pixel artworks.
